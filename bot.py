@@ -13,7 +13,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # ── Config ────────────────────────────────────────
-TELEGRAM_TOKEN = "8374622558:AAGPqB0lh7cS9Y8pXa7RyZyHkD2a8gBSXcs"
+TELEGRAM_TOKEN = "Just add your API key here"
 
 DEVICES = {
     "R1": {
